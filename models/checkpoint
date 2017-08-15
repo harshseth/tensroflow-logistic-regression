@@ -1,2 +1,0 @@
-model_checkpoint_path: "log_regression.ckpt"
-all_model_checkpoint_paths: "log_regression.ckpt"
